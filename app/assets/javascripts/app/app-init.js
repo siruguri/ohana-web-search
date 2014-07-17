@@ -4,7 +4,9 @@
 // the about page, because that page does not have popups to manage.
 require([
   'app/google-translate-manager',
-  'app/popup-manager'
+  'app/popup-manager',
+  'jquery',
+  'jquery_ujs'
 ],
   function (gt, pm) {
   'use strict';

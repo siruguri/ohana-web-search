@@ -5,8 +5,6 @@ modules:
   - name: 'routes/organizations/show'
 
 paths:
-  jquery: 'jquery-min'
-  jquery_ujs: 'jquery_ujs'
   domReady: 'requirejs/domReady'
   async: 'requirejs/async'
   enquire: 'enquire.min'

@@ -23,6 +23,8 @@ gem 'requirejs-rails', '>= 0.9.2'
 # For HAML HTML view templates.
 gem 'haml-rails', '>= 0.5.3'
 
+gem 'jquery-rails', '>= 3.1.1'
+
 # SERVER
 
 gem 'unicorn', '>= 4.8.3'
